@@ -1,8 +1,9 @@
 # Titanic
-A machine learning project using Logistic Regression to predict Titanic survival outcomes with 84% accuracy based on passenger demographics and family structures.
-
 Predicting Survival with 84% Accuracy
-This project explores the famous Titanic dataset to predict passenger survival. Using a combination of Exploratory Data Analysis (EDA), Feature Engineering, and Supervised Machine Learning, I developed a model capable of predicting whether a passenger survived the sinking of the Titanic based on characteristics like age, class, and family size.
+
+A machine learning project using Logistic Regression to predict Titanic survival outcomes with 84% accuracy based on passenger demographics and family structure 
+
+Using a combination of Exploratory Data Analysis (EDA), Feature Engineering, and Supervised Machine Learning, I developed a model capable of predicting whether a passenger survived the sinking of the Titanic based on characteristics like age, class, and family size.
 
 The Data Science Workflow
 
